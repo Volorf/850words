@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+* {
+  transition: all 0.5s;
+  box-sizing: border-box;
+}
+body {
+  background: #ff8a8a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+body .container {
+  background: #fff;
+  width: 200px;
+  height: 60px;
+  border-radius: 4px;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}

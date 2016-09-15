@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Lato)
+
+$bgColor = #FF8A8A
+$containerColor = #fff
+$containerWidth = 200px
+$containerHeight = 60px
+$containerBorderRadius = 4px
+$containerShadow = 0px 4px 8px rgba(0,0,0,.1)
+
+*
+  transition all .5s
+  box-sizing border-box
+
+body
+  background $bgColor
+  display flex
+  justify-content center
+  align-items center
+  width 100vw
+  height 100vh
+  .container
+    background $containerColor
+    width $containerWidth
+    height $containerHeight
+    border-radius $containerBorderRadius
+    box-shadow $containerShadow
