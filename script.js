@@ -1,16 +1,24 @@
-(function() {
-  $(document).ready(function() {
-    $("body").on("mousedown", function() {
-      return $(this).css({
-        "background": "white"
-      });
-    });
-    return $("body").on("mouseup", function() {
-      return $(this).css({
-        "background": "#FF8A8A"
-      });
-    });
-  });
+$(document).ready(function(){
 
-}).call(this);
+  // Main variables
+  var random = 0
+  var url = "enru.json";
 
+  // Set data function
+  function setData(transcription, word, translation) {
+    $(".transcription").text(transcription);
+    $(".word").text(word);
+    $(".translation").text(translation);
+  };
+
+  // Get json data and set to labels
+  function getAndSetData(url) {
+    $.getJSON(url, function(result) {
+      setData(result[random].transcription, result[random].word, result[random].translation)
+    });
+  };
+
+  // Call getAndSetData function
+  getAndSetData(url);
+
+});
