@@ -1,20 +1,36 @@
 @import url("https://fonts.googleapis.com/css?family=Lato");
-* {
-  transition: all 0.5s;
-  box-sizing: border-box;
-}
 body {
-  background: #ff8a8a;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  background: #22262f;
   width: 100vw;
   height: 100vh;
+  font-family: "SF UI Display", "Arial", sans-serif;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 3.5vh;
+  overflow: hidden;
 }
-body .container {
-  background: #fff;
-  width: 200px;
-  height: 60px;
-  border-radius: 4px;
-  box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+body .word {
+  font-size: 160px;
+  line-height: 30vh;
+  opacity: 0;
+  transform: scale(0.95);
+  transition: all 2s;
+}
+body .translation,
+body .transcription {
+  line-height: 30vh;
+  font-size: 24px;
+  opacity: 0;
+  font-weight: 200;
+}
+body .translation {
+  opacity: 0;
+  transform: scale(0.95);
+  transition: all 2s 0.5s;
+}
+body .transcription {
+  opacity: 0;
+  transform: scale(0.95);
+  transition: all 2s 0.3s;
 }

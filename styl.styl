@@ -1,26 +1,42 @@
 @import url(https://fonts.googleapis.com/css?family=Lato)
 
-$bgColor = #FF8A8A
+$bgColor = #22262F
 $containerColor = #fff
 $containerWidth = 200px
-$containerHeight = 60px
+$containerHeight = 100px
 $containerBorderRadius = 4px
 $containerShadow = 0px 4px 8px rgba(0,0,0,.1)
 
-*
-  transition all .5s
-  box-sizing border-box
+// *
+//   transition all 1s
+//   box-sizing border-box
 
 body
   background $bgColor
-  display flex
-  justify-content center
-  align-items center
   width 100vw
   height 100vh
-  .container
-    background $containerColor
-    width $containerWidth
-    height $containerHeight
-    border-radius $containerBorderRadius
-    box-shadow $containerShadow
+  font-family "SF UI Display", "Arial", sans-serif
+  color white
+  font-size 20px
+  text-align center
+  padding-top 3.5vh
+  overflow hidden
+  .word
+    font-size 160px
+    line-height 30vh
+    opacity 0
+    transform scale(.95)
+    transition all 2s
+  .translation, .transcription
+    line-height 30vh
+    font-size 24px
+    opacity 0
+    font-weight 200
+  .translation
+    opacity 0
+    transform scale(.95)
+    transition all 2s .5s
+  .transcription
+    opacity 0
+    transform scale(.95)
+    transition all 2s .3s
