@@ -110,6 +110,7 @@
   {"transcription": "/jes/", "word": "yes", "translation": "да", "type": "operations - 100 words"},
 
 
+
   {"transcription": "/ˈæŋɡl/", "word": "angle", "translation": "угол", "type": "things - 200 words"},
   {"transcription": "/ænt/", "word": "ant", "translation": "муравей", "type": "things - 200 words"},
   {"transcription": "/ˈæpl/", "word": "apple", "translation": "яблоко", "type": "things - 200 words"},
@@ -119,9 +120,51 @@
   {"transcription": "/ˈbeɪbi/", "word": "baby", "translation": "малыш", "type": "things - 200 words"},
   {"transcription": "/bæɡ/", "word": "bag", "translation": "сумка", "type": "things - 200 words"},
   {"transcription": "/bɔːl/", "word": "ball", "translation": "мяч", "type": "things - 200 words"},
-  {"transcription": "/bænd/", "word": "band", "translation": "группа", "type": "things - 200 words"}
+  {"transcription": "/bænd/", "word": "band", "translation": "группа", "type": "things - 200 words"},
 
+  {"transcription": "/ˈbeɪsən/", "word": "basin", "translation": "миска, таз", "type": "things - 200 words"},
+  {"transcription": "/ˈbɑːskɪt/", "word": "basket", "translation": "корзина", "type": "things - 200 words"},
+  {"transcription": "/bɑːθ/", "word": "bath", "translation": "ванна", "type": "things - 200 words"},
+  {"transcription": "/bed/", "word": "bed", "translation": "кровать", "type": "things - 200 words"},
+  {"transcription": "/biː/", "word": "bee", "translation": "пчела", "type": "things - 200 words"},
+  {"transcription": "/bel/", "word": "bell", "translation": "колокол", "type": "things - 200 words"},
+  {"transcription": "/ˈberi/", "word": "berry", "translation": "ягода", "type": "things - 200 words"},
+  {"transcription": "/bɜːd/", "word": "bird", "translation": "птица", "type": "things - 200 words"},
+  {"transcription": "/bleɪd/", "word": "blade", "translation": "лезвие", "type": "things - 200 words"},
+  {"transcription": "/bɔːd/", "word": "board", "translation": "доска", "type": "things - 200 words"},
 
+  {"transcription": "/bəʊt/", "word": "boat", "translation": "лодка", "type": "things - 200 words"},
+  {"transcription": "/bəʊn/", "word": "bone", "translation": "кость", "type": "things - 200 words"},
+  {"transcription": "/bʊk/", "word": "book", "translation": "книга", "type": "things - 200 words"},
+  {"transcription": "/buːt/", "word": "boot", "translation": "сапог", "type": "things - 200 words"},
+  {"transcription": "/ˈbɒtl/", "word": "bottle", "translation": "бутылка", "type": "things - 200 words"},
+  {"transcription": "/bɒks/", "word": "box", "translation": "коробка", "type": "things - 200 words"},
+  {"transcription": "/bɔɪ/", "word": "boy", "translation": "мальчик", "type": "things - 200 words"},
+  {"transcription": "/breɪn/", "word": "brain", "translation": "мозг", "type": "things - 200 words"},
+  {"transcription": "/breɪk/", "word": "brake", "translation": "тормоз", "type": "things - 200 words"},
+  {"transcription": "/brɑːnʃ/", "word": "branch", "translation": "ветка", "type": "things - 200 words"},
+
+  {"transcription": "/brɪk/", "word": "brick", "translation": "кирпич", "type": "things - 200 words"},
+  {"transcription": "/brɪdʒ/", "word": "bridge", "translation": "мост", "type": "things - 200 words"},
+  {"transcription": "/brʌʃ/", "word": "brush", "translation": "щётка", "type": "things - 200 words"},
+  {"transcription": "/ˈbʌkɪt/", "word": "bucket", "translation": "ведро", "type": "things - 200 words"},
+  {"transcription": "/bʌlb/", "word": "bulb", "translation": "лампочка", "type": "things - 200 words"},
+  {"transcription": "/ˈbʌtən/", "word": "button", "translation": "кнопка", "type": "things - 200 words"},
+  {"transcription": "/keɪk/", "word": "cake", "translation": "пирог", "type": "things - 200 words"},
+  {"transcription": "/ˈkæmərə/", "word": "camera", "translation": "фотоаппарат", "type": "things - 200 words"},
+  {"transcription": "/kɑːd/", "word": "card", "translation": "карточка", "type": "things - 200 words"},
+  {"transcription": "/kɑːt/", "word": "cart", "translation": "тележка", "type": "things - 200 words"},
+
+  {"transcription": "/ˈkærɪdʒ/", "word": "carriage", "translation": "вагон", "type": "things - 200 words"},
+  {"transcription": "/kæt/", "word": "cat", "translation": "кошка", "type": "things - 200 words"},
+  {"transcription": "/tʃeɪn/", "word": "chain", "translation": "цепь", "type": "things - 200 words"},
+  {"transcription": "/tʃiːz/", "word": "cheese", "translation": "сыр", "type": "things - 200 words"},
+  {"transcription": "/tʃest/", "word": "chest", "translation": "грудь", "type": "things - 200 words"},
+  {"transcription": "/tʃɪn/", "word": "chin", "translation": "подбородок", "type": "things - 200 words"},
+  {"transcription": "/tʃɜːtʃ/", "word": "church", "translation": "церковь", "type": "things - 200 words"},
+  {"transcription": "/ˈsɜːkl/", "word": "circle", "translation": "круг", "type": "things - 200 words"},
+  {"transcription": "/klɒk/", "word": "clock", "translation": "часы", "type": "things - 200 words"},
+  {"transcription": "/klaʊd/", "word": "cloud", "translation": "облако", "type": "things - 200 words"}
 
 
 
