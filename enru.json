@@ -9,7 +9,6 @@
   {"transcription": "/pʊt/", "word": "put", "translation": "класть", "type": "operations - 100 words"},
   {"transcription": "/siːm/", "word": "seem", "translation": "казаться", "type": "operations - 100 words"},
   {"transcription": "/teɪk/", "word": "take", "translation": "брать", "type": "operations - 100 words"},
-
   {"transcription": "/biː/", "word": "be", "translation": "быть", "type": "operations - 100 words"},
   {"transcription": "/duː/", "word": "do", "translation": "делать", "type": "operations - 100 words"},
   {"transcription": "/hæv/", "word": "have", "translation": "иметь", "type": "operations - 100 words"},
@@ -20,7 +19,6 @@
   {"transcription": "/wɪl/", "word": "will", "translation": "вспом. гл. буд. времени", "type": "operations - 100 words"},
   {"transcription": "/əˈbaʊt/", "word": "about", "translation": "о, об", "type": "operations - 100 words"},
   {"transcription": "/əˈkrɒs/", "word": "across", "translation": "через", "type": "operations - 100 words"},
-
   {"transcription": "/ˈɑːftər/", "word": "after", "translation": "после", "type": "operations - 100 words"},
   {"transcription": "/əˈɡenst/", "word": "against", "translation": "против", "type": "operations - 100 words"},
   {"transcription": "/əˈmʌŋ/", "word": "among", "translation": "в, среди", "type": "operations - 100 words"},
@@ -31,7 +29,6 @@
   {"transcription": "/daʊn/", "word": "down", "translation": "вниз", "type": "operations - 100 words"},
   {"transcription": "/frɒm/", "word": "from", "translation": "от, с", "type": "operations - 100 words"},
   {"transcription": "/ɪn/", "word": "in", "translation": "в", "type": "operations - 100 words"},
-
   {"transcription": "/ɒf/", "word": "off", "translation": "удаление или отделение от чего-либо, от-, с-", "type": "operations - 100 words"},
   {"transcription": "/ɒn/", "word": "on", "translation": "на", "type": "operations - 100 words"},
   {"transcription": "/ˈəʊvə/", "word": "over", "translation": "над", "type": "operations - 100 words"},
@@ -42,7 +39,6 @@
   {"transcription": "/wɪð/", "word": "with", "translation": "(вместе) с", "type": "operations - 100 words"},
   {"transcription": "/æz/", "word": "as", "translation": "так же как", "type": "operations - 100 words"},
   {"transcription": "/fɔː/", "word": "for", "translation": "для", "type": "operations - 100 words"},
-
   {"transcription": "/ɒv/", "word": "of", "translation": "принадлежность кому-либо/чему-либо, род. падеж", "type": "operations - 100 words"},
   {"transcription": "/tɪl/", "word": "till", "translation": "до", "type": "operations - 100 words"},
   {"transcription": "/ðæn/", "word": "than", "translation": "чем", "type": "operations - 100 words"},
@@ -53,7 +49,6 @@
   {"transcription": "/ˈevri/", "word": "every", "translation": "каждый", "type": "operations - 100 words"},
   {"transcription": "/nəʊ/", "word": "no", "translation": "никакой, нет", "type": "operations - 100 words"},
   {"transcription": "/ʌðə/", "word": "other", "translation": "другой", "type": "operations - 100 words"},
-
   {"transcription": "/sʌm/", "word": "some", "translation": "какое-то количество, немного, несколько", "type": "operations - 100 words"},
   {"transcription": "/sʌtʃ/", "word": "such", "translation": "такой, подобный", "type": "operations - 100 words"},
   {"transcription": "/ðæt/", "word": "that", "translation": "что, тот", "type": "operations - 100 words"},
@@ -64,7 +59,6 @@
   {"transcription": "/huː/", "word": "who", "translation": "кто", "type": "operations - 100 words"},
   {"transcription": "/ænd/", "word": "and", "translation": "и", "type": "operations - 100 words"},
   {"transcription": "/bɪˈkɒz/", "word": "because", "translation": "потому что", "type": "operations - 100 words"},
-
   {"transcription": "/bʌt/", "word": "but", "translation": "но", "type": "operations - 100 words"},
   {"transcription": "/ɔː/", "word": "or", "translation": "или", "type": "operations - 100 words"},
   {"transcription": "/ɪf/", "word": "if", "translation": "если", "type": "operations - 100 words"},
@@ -75,7 +69,6 @@
   {"transcription": "/weə/", "word": "where", "translation": "где", "type": "operations - 100 words"},
   {"transcription": "/waɪ/", "word": "why", "translation": "почему", "type": "operations - 100 words"},
   {"transcription": "/əˈɡen/", "word": "again", "translation": "опять", "type": "operations - 100 words"},
-
   {"transcription": "/ˈevə/", "word": "ever", "translation": "когда-либо", "type": "operations - 100 words"},
   {"transcription": "/fɑː/", "word": "far", "translation": "далеко", "type": "operations - 100 words"},
   {"transcription": "/ˈfɔːwəd/", "word": "forward", "translation": "вперед", "type": "operations - 100 words"},
@@ -86,7 +79,6 @@
   {"transcription": "/stɪl/", "word": "still", "translation": "все еще", "type": "operations - 100 words"},
   {"transcription": "/ðen/", "word": "then", "translation": "тогда, потом", "type": "operations - 100 words"},
   {"transcription": "/ðeə/", "word": "there", "translation": "там, туда", "type": "operations - 100 words"},
-
   {"transcription": "/təˈɡeðə/", "word": "together", "translation": "вместе", "type": "operations - 100 words"},
   {"transcription": "/wel/", "word": "well", "translation": "хорошо, вполне", "type": "operations - 100 words"},
   {"transcription": "/ˈɔːlməʊst/", "word": "almost", "translation": "почти", "type": "operations - 100 words"},
@@ -97,7 +89,6 @@
   {"transcription": "/nɒt/", "word": "not", "translation": "не", "type": "operations - 100 words"},
   {"transcription": "/ˈəʊnli/", "word": "only", "translation": "только, всего лишь", "type": "operations - 100 words"},
   {"transcription": "/kwaɪt/", "word": "quite", "translation": "довольно", "type": "operations - 100 words"},
-
   {"transcription": "/səʊ/", "word": "so", "translation": "так, настолько, таким образом", "type": "operations - 100 words"},
   {"transcription": "/ˈveri/", "word": "very", "translation": "очень", "type": "operations - 100 words"},
   {"transcription": "/təˈmɒrəʊ/", "word": "tomorrow", "translation": "завтра", "type": "operations - 100 words"},
@@ -108,8 +99,6 @@
   {"transcription": "/west/", "word": "west", "translation": "запад", "type": "operations - 100 words"},
   {"transcription": "/pliːz/", "word": "please", "translation": "пожалуйста", "type": "operations - 100 words"},
   {"transcription": "/jes/", "word": "yes", "translation": "да", "type": "operations - 100 words"},
-
-
 
   {"transcription": "/ˈæŋɡl/", "word": "angle", "translation": "угол", "type": "things - 200 words"},
   {"transcription": "/ænt/", "word": "ant", "translation": "муравей", "type": "things - 200 words"},
@@ -165,7 +154,5 @@
   {"transcription": "/ˈsɜːkl/", "word": "circle", "translation": "круг", "type": "things - 200 words"},
   {"transcription": "/klɒk/", "word": "clock", "translation": "часы", "type": "things - 200 words"},
   {"transcription": "/klaʊd/", "word": "cloud", "translation": "облако", "type": "things - 200 words"}
-
-
 
 ]
