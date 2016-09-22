@@ -153,6 +153,28 @@
   {"transcription": "/tʃɜːtʃ/", "word": "church", "translation": "церковь", "type": "things - 200 words"},
   {"transcription": "/ˈsɜːkl/", "word": "circle", "translation": "круг", "type": "things - 200 words"},
   {"transcription": "/klɒk/", "word": "clock", "translation": "часы", "type": "things - 200 words"},
-  {"transcription": "/klaʊd/", "word": "cloud", "translation": "облако", "type": "things - 200 words"}
+  {"transcription": "/klaʊd/", "word": "cloud", "translation": "облако", "type": "things - 200 words"},
+
+  {"transcription": "/kəʊt/", "word": "coat", "translation": "пальто", "type": "things - 200 words"},
+  {"transcription": "/ˈkɒlə/", "word": "collar", "translation": "воротник", "type": "things - 200 words"},
+  {"transcription": "/kəʊm/", "word": "comb", "translation": "расческа", "type": "things - 200 words"},
+  {"transcription": "/kɔːd/", "word": "cord", "translation": "провод", "type": "things - 200 words"},
+  {"transcription": "/kaʊ/", "word": "cow", "translation": "корова", "type": "things - 200 words"},
+  {"transcription": "/kʌp/", "word": "cup", "translation": "чашка", "type": "things - 200 words"},
+  {"transcription": "/ˈkɜːtən/", "word": "curtain", "translation": "занавеска", "type": "things - 200 words"},
+  {"transcription": "/ˈkʊʃən/", "word": "cushion", "translation": "подушка", "type": "things - 200 words"},
+  {"transcription": "/dɒɡ/", "word": "dog", "translation": "собака", "type": "things - 200 words"},
+  {"transcription": "/dɔː/", "word": "door", "translation": "дверь", "type": "things - 200 words"},
+
+  {"transcription": "/dreɪn/", "word": "drain", "translation": "водосток", "type": "things - 200 words"},
+  {"transcription": "/drɔː/", "word": "drawer", "translation": "выдвижной ящик", "type": "things - 200 words"},
+  {"transcription": "/dres/", "word": "dress", "translation": "платье", "type": "things - 200 words"},
+  {"transcription": "/drɒp/", "word": "drop", "translation": "капля", "type": "things - 200 words"},
+  {"transcription": "/ɪə/", "word": "ear", "translation": "ухо", "type": "things - 200 words"},
+  {"transcription": "/eɡ/", "word": "egg", "translation": "яйцо", "type": "things - 200 words"},
+  {"transcription": "/ˈendʒɪn/", "word": "engine", "translation": "двигатель", "type": "things - 200 words"},
+  {"transcription": "/aɪ/", "word": "eye", "translation": "глаз", "type": "things - 200 words"},
+  {"transcription": "/feɪs/", "word": "face", "translation": "лицо", "type": "things - 200 words"},
+  {"transcription": "/fɑːm/", "word": "farm", "translation": "ферма", "type": "things - 200 words"}
 
 ]
