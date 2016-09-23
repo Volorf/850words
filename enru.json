@@ -175,6 +175,17 @@
   {"transcription": "/ˈendʒɪn/", "word": "engine", "translation": "двигатель", "type": "things - 200 words"},
   {"transcription": "/aɪ/", "word": "eye", "translation": "глаз", "type": "things - 200 words"},
   {"transcription": "/feɪs/", "word": "face", "translation": "лицо", "type": "things - 200 words"},
-  {"transcription": "/fɑːm/", "word": "farm", "translation": "ферма", "type": "things - 200 words"}
+  {"transcription": "/fɑːm/", "word": "farm", "translation": "ферма", "type": "things - 200 words"},
+
+  {"transcription": "/ˈfeðə/", "word": "feather", "translation": "перо", "type": "things - 200 words"},
+  {"transcription": "/ˈfɪŋɡə/", "word": "finger", "translation": "палец", "type": "things - 200 words"},
+  {"transcription": "/fɪʃ/", "word": "fish", "translation": "рыба", "type": "things - 200 words"},
+  {"transcription": "/flæɡ/", "word": "flag", "translation": "флаг", "type": "things - 200 words"},
+  {"transcription": "/flɔː/", "word": "floor", "translation": "пол, этаж", "type": "things - 200 words"},
+  {"transcription": "/flaɪ/", "word": "fly", "translation": "муха", "type": "things - 200 words"},
+  {"transcription": "/fʊt/", "word": "foot", "translation": "ступня", "type": "things - 200 words"},
+  {"transcription": "/fɔːk/", "word": "fork", "translation": "вилка", "type": "things - 200 words"},
+  {"transcription": "/faʊl/", "word": "fowl", "translation": "домашняя птица", "type": "things - 200 words"},
+  {"transcription": "/freɪm/", "word": "frame", "translation": "рамка", "type": "things - 200 words"}
 
 ]
