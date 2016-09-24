@@ -186,6 +186,17 @@
   {"transcription": "/fʊt/", "word": "foot", "translation": "ступня", "type": "things - 200 words"},
   {"transcription": "/fɔːk/", "word": "fork", "translation": "вилка", "type": "things - 200 words"},
   {"transcription": "/faʊl/", "word": "fowl", "translation": "домашняя птица", "type": "things - 200 words"},
-  {"transcription": "/freɪm/", "word": "frame", "translation": "рамка", "type": "things - 200 words"}
+  {"transcription": "/freɪm/", "word": "frame", "translation": "рамка", "type": "things - 200 words"},
+
+  {"transcription": "/ˈɡɑːdən/", "word": "garden", "translation": "сад", "type": "things - 200 words"},
+  {"transcription": "/ɡɜːl/", "word": "girl", "translation": "девочка", "type": "things - 200 words"},
+  {"transcription": "/ɡlʌv/", "word": "glove", "translation": "перчатка", "type": "things - 200 words"},
+  {"transcription": "/ɡəʊt/", "word": "goat", "translation": "козел", "type": "things - 200 words"},
+  {"transcription": "/ɡʌn/", "word": "gun", "translation": "огнестрельное оружие", "type": "things - 200 words"},
+  {"transcription": "/heə/", "word": "hair", "translation": "волосы", "type": "things - 200 words"},
+  {"transcription": "/ˈhæmə/", "word": "hammer", "translation": "молоток", "type": "things - 200 words"},
+  {"transcription": "/hænd/", "word": "hand", "translation": "рука", "type": "things - 200 words"},
+  {"transcription": "/hæt/", "word": "hat", "translation": "шляпа", "type": "things - 200 words"},
+  {"transcription": "/hed/", "word": "head", "translation": "голова", "type": "things - 200 words"}
 
 ]
