@@ -29,11 +29,21 @@ body .info {
   font-size: 14px;
   opacity: 0;
   transform: scale(0.95);
-  transition: all 2s 1s;
+  transition: all 2s 1.6s;
   position: absolute;
   left: 24px;
   top: 100%;
   margin-top: -36px;
+  font-weight: 200;
+}
+body .app {
+  font-size: 14px;
+  opacity: 0;
+  transform: scale(0.95);
+  transition: all 2s 1.2s;
+  position: absolute;
+  right: 24px;
+  top: 24px;
   font-weight: 200;
 }
 body .type {
@@ -50,7 +60,7 @@ body .created {
   font-size: 14px;
   opacity: 0;
   transform: scale(0.95);
-  transition: all 2s 1s;
+  transition: all 2s 1.4s;
   position: absolute;
   right: 24px;
   top: 100%;
