@@ -10,10 +10,19 @@ $(document).ready(function(){
   }
 
   // Set data function
-  function setData(transcription, word, translation) {
+  function setData(transcription, word, translation, type) {
     $(".transcription").text(transcription);
     $(".word").text(word);
     $(".translation").text(translation);
+    $(".type").text(type);
+  };
+
+  function showLabels() {
+    $(".word").css({"opacity": "1", "transform" : "scale(1)"});
+    $(".translation").css({"opacity": ".4", "transform" : "scale(1)"});
+    $(".transcription").css({"opacity": ".4", "transform" : "scale(1)"});
+    $(".type").css({"opacity": ".2", "transform" : "scale(1)"});
+    $(".created").css({"opacity": ".2", "transform" : "scale(1)"});
   };
 
   // Get json data and set to labels
@@ -24,19 +33,28 @@ $(document).ready(function(){
       // Define indexOfArray from getRandomNumber funtion
       var indexOfArray = getRandomNumber(count)
       // Set data for labels
-      setData(result[indexOfArray].transcription, result[indexOfArray].word, result[indexOfArray].translation)
+      setData(result[indexOfArray].transcription, result[indexOfArray].word, result[indexOfArray].translation, result[indexOfArray].type)
     });
+    // Show our labels
+    showLabels();
   };
 
   // Call getAndSetData function
   getAndSetData(url);
 
-  function showLabels() {
-    $(".word").css({"opacity": "1", "transform" : "scale(1)"});
-    $(".translation").css({"opacity": ".4", "transform" : "scale(1)"});
-    $(".transcription").css({"opacity": ".4", "transform" : "scale(1)"});
-  };
+  // Call getAndSetData function by click
+  $(".container").click(function() {
+    // Call getAndSetData function
+    getAndSetData(url);
+  });
 
-  showLabels();
+  // Call getAndSetData function by pressing any button
+  $(document).keydown(function(e){
+    // Backspace check
+    if (event.keyCode == 32) {
+      // Call getAndSetData function
+      getAndSetData(url);
+    };
+  });
 
 });
