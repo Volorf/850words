@@ -17,6 +17,7 @@ $(document).ready(function(){
     $(".type").text(type);
   };
 
+  // Show all labels
   function showLabels() {
     $(".word").css({"opacity": "1", "transform" : "scale(1)"});
     $(".translation").css({"opacity": ".4", "transform" : "scale(1)"});
@@ -24,6 +25,7 @@ $(document).ready(function(){
     $(".type").css({"opacity": ".2", "transform" : "scale(1)"});
     $(".created").css({"opacity": ".2", "transform" : "scale(1)"});
     $(".info").css({"opacity": ".2", "transform" : "scale(1)"});
+    $(".app").css({"opacity": ".2", "transform" : "scale(1)"});
   };
 
   // Get json data and set to labels
