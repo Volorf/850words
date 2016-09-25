@@ -23,6 +23,7 @@ $(document).ready(function(){
     $(".transcription").css({"opacity": ".4", "transform" : "scale(1)"});
     $(".type").css({"opacity": ".2", "transform" : "scale(1)"});
     $(".created").css({"opacity": ".2", "transform" : "scale(1)"});
+    $(".info").css({"opacity": ".2", "transform" : "scale(1)"});
   };
 
   // Get json data and set to labels
