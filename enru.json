@@ -278,15 +278,39 @@
   {"transcription": "/ˈsteɪʃən/", "word": "station", "translation": "станция", "type": "things — 200 words"},
   {"transcription": "/stem/", "word": "stem", "translation": "стебель", "type": "things — 200 words"},
 
-  {"transcription": "/ˈsɪzəz/", "word": "scissors", "translation": "ножницы", "type": "things — 200 words"},
-  {"transcription": "/ˈsɪzəz/", "word": "scissors", "translation": "ножницы", "type": "things — 200 words"},
-  {"transcription": "/ˈsɪzəz/", "word": "scissors", "translation": "ножницы", "type": "things — 200 words"},
-  {"transcription": "/ˈsɪzəz/", "word": "scissors", "translation": "ножницы", "type": "things — 200 words"},
-  {"transcription": "/ˈsɪzəz/", "word": "scissors", "translation": "ножницы", "type": "things — 200 words"},
-  {"transcription": "/ˈsɪzəz/", "word": "scissors", "translation": "ножницы", "type": "things — 200 words"},
-  {"transcription": "/ˈsɪzəz/", "word": "scissors", "translation": "ножницы", "type": "things — 200 words"},
-  {"transcription": "/ˈsɪzəz/", "word": "scissors", "translation": "ножницы", "type": "things — 200 words"},
-  {"transcription": "/ˈsɪzəz/", "word": "scissors", "translation": "ножницы", "type": "things — 200 words"},
-  {"transcription": "/ˈsɪzəz/", "word": "scissors", "translation": "ножницы", "type": "things — 200 words"}
+  {"transcription": "/stɪk/", "word": "stick", "translation": "палка", "type": "things — 200 words"},
+  {"transcription": "/ˈstɒkɪŋ/", "word": "stocking", "translation": "чулок", "type": "things — 200 words"},
+  {"transcription": "/ˈstʌmək/", "word": "stomach", "translation": "живот", "type": "things — 200 words"},
+  {"transcription": "/stɔː/", "word": "store", "translation": "магазин", "type": "things — 200 words"},
+  {"transcription": "/striːt/", "word": "street", "translation": "улица", "type": "things — 200 words"},
+  {"transcription": "/sʌn/", "word": "son", "translation": "солнце", "type": "things — 200 words"},
+  {"transcription": "/ˈteɪbl/", "word": "table", "translation": "стол", "type": "things — 200 words"},
+  {"transcription": "/teɪl/", "word": "tail", "translation": "хвост", "type": "things — 200 words"},
+  {"transcription": "/θred/", "word": "thread", "translation": "нить", "type": "things — 200 words"},
+  {"transcription": "/θrəʊt/", "word": "throat", "translation": "горло", "type": "things — 200 words"},
+
+  {"transcription": "/θʌm/", "word": "thumb", "translation": "большой палец", "type": "things — 200 words"},
+  {"transcription": "/ˈtɪkɪt/", "word": "ticket", "translation": "билет", "type": "things — 200 words"},
+  {"transcription": "/təʊ/", "word": "toe", "translation": "палец ноги", "type": "things — 200 words"},
+  {"transcription": "/tʌŋ/", "word": "tongue", "translation": "язык", "type": "things — 200 words"},
+  {"transcription": "/tuːθ/", "word": "tooth", "translation": "зуб", "type": "things — 200 words"},
+  {"transcription": "/taʊn/", "word": "town", "translation": "город", "type": "things — 200 words"},
+  {"transcription": "/treɪn/", "word": "train", "translation": "поезд", "type": "things — 200 words"},
+  {"transcription": "/treɪ/", "word": "tray", "translation": "поднос", "type": "things — 200 words"},
+  {"transcription": "/triː/", "word": "tree", "translation": "дерево", "type": "things — 200 words"},
+  {"transcription": "/ˈtraʊzəz/", "word": "trousers", "translation": "брюки", "type": "things — 200 words"},
+
+  {"transcription": "/ˈtraʊzəz/", "word": "trousers", "translation": "брюки", "type": "things — 200 words"},
+  {"transcription": "/ˈtraʊzəz/", "word": "trousers", "translation": "брюки", "type": "things — 200 words"},
+  {"transcription": "/ˈtraʊzəz/", "word": "trousers", "translation": "брюки", "type": "things — 200 words"},
+  {"transcription": "/ˈtraʊzəz/", "word": "trousers", "translation": "брюки", "type": "things — 200 words"},
+  {"transcription": "/ˈtraʊzəz/", "word": "trousers", "translation": "брюки", "type": "things — 200 words"},
+  {"transcription": "/ˈtraʊzəz/", "word": "trousers", "translation": "брюки", "type": "things — 200 words"},
+  {"transcription": "/ˈtraʊzəz/", "word": "trousers", "translation": "брюки", "type": "things — 200 words"},
+  {"transcription": "/ˈtraʊzəz/", "word": "trousers", "translation": "брюки", "type": "things — 200 words"},
+  {"transcription": "/ˈtraʊzəz/", "word": "trousers", "translation": "брюки", "type": "things — 200 words"},
+  {"transcription": "/ˈtraʊzəz/", "word": "trousers", "translation": "брюки", "type": "things — 200 words"}
+
+
 
 ]
