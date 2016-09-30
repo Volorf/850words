@@ -312,7 +312,6 @@
   {"transcription": "/kəmˈpliːt/", "word": "complete", "translation": "полный", "type": "qualities — 50 opposites"},
   {"transcription": "/ˈkruːəl/", "word": "cruel", "translation": "жестокий", "type": "qualities — 50 opposites"},
   {"transcription": "/dɑːk/", "word": "dark", "translation": "тёмный", "type": "qualities — 50 opposites"},
-
   {"transcription": "/ded/", "word": "dead", "translation": "мёртвый", "type": "qualities — 50 opposites"},
   {"transcription": "/dɪə/", "word": "dear", "translation": "дорогой", "type": "qualities — 50 opposites"},
   {"transcription": "/ˈdelɪkət/", "word": "delicate", "translation": "нежный", "type": "qualities — 50 opposites"},
@@ -323,7 +322,6 @@
   {"transcription": "/ˈfiːbl/", "word": "feeble", "translation": "слабый", "type": "qualities — 50 opposites"},
   {"transcription": "/ˈfiːmeɪl/", "word": "female", "translation": "женский", "type": "qualities — 50 opposites"},
   {"transcription": "/ˈfuːlɪʃ/", "word": "foolish", "translation": "глупый", "type": "qualities — 50 opposites"},
-
   {"transcription": "/ˈfjuːtʃə/", "word": "future", "translation": "будущий", "type": "qualities — 50 opposites"},
   {"transcription": "/ɡriːn/", "word": "green", "translation": "зелёный", "type": "qualities — 50 opposites"},
   {"transcription": "/ɪl/", "word": "ill", "translation": "больной", "type": "qualities — 50 opposites"},
@@ -334,7 +332,6 @@
   {"transcription": "/laʊd/", "word": "loud", "translation": "громкий", "type": "qualities — 50 opposites"},
   {"transcription": "/ləʊ/", "word": "low", "translation": "низкий", "type": "qualities — 50 opposites"},
   {"transcription": "/meɪl/", "word": "male", "translation": "мужской", "type": "qualities — 50 opposites"},
-
   {"transcription": "/mɪkst/", "word": "mixed", "translation": "смешанный", "type": "qualities — 50 opposites"},
   {"transcription": "/ˈnærəʊ/", "word": "narrow", "translation": "узкий", "type": "qualities — 50 opposites"},
   {"transcription": "/əʊld/", "word": "old", "translation": "старый", "type": "qualities — 50 opposites"},
@@ -345,7 +342,6 @@
   {"transcription": "/seɪf/", "word": "safe", "translation": "безопасный", "type": "qualities — 50 opposites"},
   {"transcription": "/ˈsiːkrət/", "word": "secret", "translation": "тайный", "type": "qualities — 50 opposites"},
   {"transcription": "/ʃɔːt/", "word": "short", "translation": "короткий", "type": "qualities — 50 opposites"},
-
   {"transcription": "/ʃʌt/", "word": "shut", "translation": "закрытый", "type": "qualities — 50 opposites"},
   {"transcription": "/ˈsɪmpl/", "word": "simple", "translation": "простой", "type": "qualities — 50 opposites"},
   {"transcription": "/sləʊ/", "word": "slow", "translation": "медленный", "type": "qualities — 50 opposites"},
@@ -355,6 +351,17 @@
   {"transcription": "/ˈspeʃəl/", "word": "special", "translation": "особенный", "type": "qualities — 50 opposites"},
   {"transcription": "/streɪndʒ/", "word": "strange", "translation": "странный", "type": "qualities — 50 opposites"},
   {"transcription": "/θɪn/", "word": "thin", "translation": "тонкий", "type": "qualities — 50 opposites"},
-  {"transcription": "/rɒŋ/", "word": "wrong", "translation": "неправильный", "type": "qualities — 50 opposites"}
+  {"transcription": "/rɒŋ/", "word": "wrong", "translation": "неправильный", "type": "qualities — 50 opposites"},
+
+  {"transcription": "/ˈeɪbl/", "word": "able", "translation": "способный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈæsɪd/", "word": "acid", "translation": "кислотный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈæŋɡri/", "word": "angry", "translation": "сердитый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˌɔːtəˈmætɪk/", "word": "automatic", "translation": "автоматический", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈbjuːtɪfəl/", "word": "beautiful", "translation": "красивый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈbɔɪlɪŋ/", "word": "boiling", "translation": "кипящий", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/braɪt/", "word": "bright", "translation": "яркий", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈbrəʊkən/", "word": "broken", "translation": "сломанный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/braʊn/", "word": "brown", "translation": "коричневый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/tʃiːp/", "word": "cheap", "translation": "дешевый", "type": "qualities — 100 descriptive words"}
 
 ]
