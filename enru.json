@@ -276,7 +276,7 @@
   {"transcription": "/ˈstʌmək/", "word": "stomach", "translation": "живот", "type": "things — 200 words"},
   {"transcription": "/stɔː/", "word": "store", "translation": "магазин", "type": "things — 200 words"},
   {"transcription": "/striːt/", "word": "street", "translation": "улица", "type": "things — 200 words"},
-  {"transcription": "/sʌn/", "word": "son", "translation": "солнце", "type": "things — 200 words"},
+  {"transcription": "/sʌn/", "word": "son", "translation": "сын", "type": "things — 200 words"},
   {"transcription": "/ˈteɪbl/", "word": "table", "translation": "стол", "type": "things — 200 words"},
   {"transcription": "/teɪl/", "word": "tail", "translation": "хвост", "type": "things — 200 words"},
   {"transcription": "/θred/", "word": "thread", "translation": "нить", "type": "things — 200 words"},
@@ -333,6 +333,28 @@
   {"transcription": "/luːs/", "word": "loose", "translation": "свободный", "type": "qualities — 50 opposites"},
   {"transcription": "/laʊd/", "word": "loud", "translation": "громкий", "type": "qualities — 50 opposites"},
   {"transcription": "/ləʊ/", "word": "low", "translation": "низкий", "type": "qualities — 50 opposites"},
-  {"transcription": "/meɪl/", "word": "male", "translation": "мужской", "type": "qualities — 50 opposites"}
+  {"transcription": "/meɪl/", "word": "male", "translation": "мужской", "type": "qualities — 50 opposites"},
+
+  {"transcription": "/mɪkst/", "word": "mixed", "translation": "смешанный", "type": "qualities — 50 opposites"},
+  {"transcription": "/ˈnærəʊ/", "word": "narrow", "translation": "узкий", "type": "qualities — 50 opposites"},
+  {"transcription": "/əʊld/", "word": "old", "translation": "старый", "type": "qualities — 50 opposites"},
+  {"transcription": "/ˈɒpəzɪt/", "word": "opposite", "translation": "противоположный", "type": "qualities — 50 opposites"},
+  {"transcription": "/ˈpʌblɪk/", "word": "public", "translation": "общественный", "type": "qualities — 50 opposites"},
+  {"transcription": "/rʌf/", "word": "rough", "translation": "грубый", "type": "qualities — 50 opposites"},
+  {"transcription": "/sæd/", "word": "sad", "translation": "грустный", "type": "qualities — 50 opposites"},
+  {"transcription": "/seɪf/", "word": "safe", "translation": "безопасный", "type": "qualities — 50 opposites"},
+  {"transcription": "/ˈsiːkrət/", "word": "secret", "translation": "тайный", "type": "qualities — 50 opposites"},
+  {"transcription": "/ʃɔːt/", "word": "short", "translation": "короткий", "type": "qualities — 50 opposites"},
+
+  {"transcription": "/ʃʌt/", "word": "shut", "translation": "закрытый", "type": "qualities — 50 opposites"},
+  {"transcription": "/ˈsɪmpl/", "word": "simple", "translation": "простой", "type": "qualities — 50 opposites"},
+  {"transcription": "/sləʊ/", "word": "slow", "translation": "медленный", "type": "qualities — 50 opposites"},
+  {"transcription": "/smɔːl/", "word": "small", "translation": "маленький", "type": "qualities — 50 opposites"},
+  {"transcription": "/sɒft/", "word": "soft", "translation": "мягкий", "type": "qualities — 50 opposites"},
+  {"transcription": "/ˈsɒlɪd/", "word": "solid", "translation": "твердый", "type": "qualities — 50 opposites"},
+  {"transcription": "/ˈspeʃəl/", "word": "special", "translation": "особенный", "type": "qualities — 50 opposites"},
+  {"transcription": "/streɪndʒ/", "word": "strange", "translation": "странный", "type": "qualities — 50 opposites"},
+  {"transcription": "/θɪn/", "word": "thin", "translation": "тонкий", "type": "qualities — 50 opposites"},
+  {"transcription": "/rɒŋ/", "word": "wrong", "translation": "неправильный", "type": "qualities — 50 opposites"}
 
 ]
