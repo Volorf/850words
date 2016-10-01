@@ -362,6 +362,30 @@
   {"transcription": "/braɪt/", "word": "bright", "translation": "яркий", "type": "qualities — 100 descriptive words"},
   {"transcription": "/ˈbrəʊkən/", "word": "broken", "translation": "сломанный", "type": "qualities — 100 descriptive words"},
   {"transcription": "/braʊn/", "word": "brown", "translation": "коричневый", "type": "qualities — 100 descriptive words"},
-  {"transcription": "/tʃiːp/", "word": "cheap", "translation": "дешевый", "type": "qualities — 100 descriptive words"}
+  {"transcription": "/tʃiːp/", "word": "cheap", "translation": "дешевый", "type": "qualities — 100 descriptive words"},
+
+  {"transcription": "/ˈkemɪkəl/", "word": "chemical", "translation": "химический", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/tʃiːf/", "word": "chief", "translation": "главный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/kliːn/", "word": "clean", "translation": "чистый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/klɪə/", "word": "clear", "translation": "ясный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈkɒmən/", "word": "common", "translation": "общий, обычный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈkɒmpleks/", "word": "complex", "translation": "сложный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈkɒnʃəs/", "word": "conscious", "translation": "сознательный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/kʌt/", "word": "cut", "translation": "отрезанный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/diːp/", "word": "deep", "translation": "глубокий", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/dɪˈpendənt/", "word": "dependent", "translation": "зависимый", "type": "qualities — 100 descriptive words"},
+
+  {"transcription": "/ˈɜːli/", "word": "early", "translation": "ранний", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ɪˈlæstɪk/", "word": "elastic", "translation": "эластичный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ɪˈlektrɪk/", "word": "electric", "translation": "электрический", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈiːkwəl/", "word": "equal", "translation": "равный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/fæt/", "word": "fat", "translation": "толстый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈfɜːtaɪl/", "word": "fertile", "translation": "плодородный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈfɜːst/", "word": "first", "translation": "первый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/fɪkst/", "word": "fixed", "translation": "фиксированный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/flæt/", "word": "flat", "translation": "плоский", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/friː/", "word": "free", "translation": "свободный", "type": "qualities — 100 descriptive words"}
+
+
 
 ]
