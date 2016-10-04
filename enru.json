@@ -384,7 +384,18 @@
   {"transcription": "/ˈfɜːst/", "word": "first", "translation": "первый", "type": "qualities — 100 descriptive words"},
   {"transcription": "/fɪkst/", "word": "fixed", "translation": "фиксированный", "type": "qualities — 100 descriptive words"},
   {"transcription": "/flæt/", "word": "flat", "translation": "плоский", "type": "qualities — 100 descriptive words"},
-  {"transcription": "/friː/", "word": "free", "translation": "свободный", "type": "qualities — 100 descriptive words"}
+  {"transcription": "/friː/", "word": "free", "translation": "свободный", "type": "qualities — 100 descriptive words"},
+
+  {"transcription": "/ˈfriːkwənt/", "word": "frequent", "translation": "частый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/fʊl/", "word": "full", "translation": "полный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈdʒenərəl/", "word": "general", "translation": "общий", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ɡʊd/", "word": "good", "translation": "хороший", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ɡreɪt/", "word": "great", "translation": "отличный, великий", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ɡreɪ/", "word": "grey", "translation": "серый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/hæŋɪŋ/", "word": "hanging", "translation": "висячий", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈhæpi/", "word": "happy", "translation": "счастливый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/hɑːd/", "word": "hard", "translation": "жесткий, трудный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈhelθi/", "word": "healthy", "translation": "полезный, здоровый", "type": "qualities — 100 descriptive words"}
 
 
 
