@@ -395,7 +395,40 @@
   {"transcription": "/hæŋɪŋ/", "word": "hanging", "translation": "висячий", "type": "qualities — 100 descriptive words"},
   {"transcription": "/ˈhæpi/", "word": "happy", "translation": "счастливый", "type": "qualities — 100 descriptive words"},
   {"transcription": "/hɑːd/", "word": "hard", "translation": "жесткий, трудный", "type": "qualities — 100 descriptive words"},
-  {"transcription": "/ˈhelθi/", "word": "healthy", "translation": "полезный, здоровый", "type": "qualities — 100 descriptive words"}
+  {"transcription": "/ˈhelθi/", "word": "healthy", "translation": "полезный, здоровый", "type": "qualities — 100 descriptive words"},
+
+  {"transcription": "/haɪ/", "word": "high", "translation": "высокий", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈhɒləʊ/", "word": "hollow", "translation": "полый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ɪmˈpɔːtənt/", "word": "important", "translation": "важный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/kaɪnd/", "word": "kind", "translation": "добрый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/laɪk/", "word": "like", "translation": "подобный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈlɪvɪŋ/", "word": "living", "translation": "живой", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/lɒŋ/", "word": "long", "translation": "длинный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈmærid/", "word": "married", "translation": "женатый, замужняя", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/məˈtɪəriəl/", "word": "material", "translation": "материальный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈmedɪkəl/", "word": "medical", "translation": "медицинский", "type": "qualities — 100 descriptive words"},
+
+  {"transcription": "/ˈmɪlɪtri/", "word": "military", "translation": "военный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈnætʃərəl/", "word": "natural", "translation": "природный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈnesəsəri/", "word": "necessary", "translation": "необходимый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/njuː/", "word": "new", "translation": "новый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈnɔːməl/", "word": "normal", "translation": "нормальный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈəʊpən/", "word": "open", "translation": "открытый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈpærəlel/", "word": "parallel", "translation": "параллельный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/pɑːst/", "word": "past", "translation": "прошлый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈfɪzɪkəl/", "word": "physical", "translation": "физический", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/pəˈlɪtɪkəl/", "word": "political", "translation": "политический", "type": "qualities — 100 descriptive words"},
+
+  {"transcription": "/pɔː/", "word": "poor", "translation": "бедный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈpɒsəbl/", "word": "possible", "translation": "возможный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈprezənt/", "word": "present", "translation": "настоящий", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈpraɪvɪt/", "word": "private", "translation": "частный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈprɒbəbl/", "word": "probable", "translation": "вероятный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/kwɪk/", "word": "quick", "translation": "быстрый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/kwaɪət/", "word": "quiet", "translation": "тихий", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈredi/", "word": "ready", "translation": "готовый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/red/", "word": "red", "translation": "красный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈreɡjələ/", "word": "regular", "translation": "обычный", "type": "qualities — 100 descriptive words"}
 
 
 
