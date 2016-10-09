@@ -428,8 +428,17 @@
   {"transcription": "/kwaɪət/", "word": "quiet", "translation": "тихий", "type": "qualities — 100 descriptive words"},
   {"transcription": "/ˈredi/", "word": "ready", "translation": "готовый", "type": "qualities — 100 descriptive words"},
   {"transcription": "/red/", "word": "red", "translation": "красный", "type": "qualities — 100 descriptive words"},
-  {"transcription": "/ˈreɡjələ/", "word": "regular", "translation": "обычный", "type": "qualities — 100 descriptive words"}
+  {"transcription": "/ˈreɡjələ/", "word": "regular", "translation": "обычный", "type": "qualities — 100 descriptive words"},
 
-
+  {"transcription": "/rɪˈspɒnsəbl/", "word": "responsible", "translation": "ответственный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/raɪt/", "word": "right", "translation": "правильный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/raʊnd/", "word": "round", "translation": "круглый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/seɪm/", "word": "same", "translation": "одинаковый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈsekənd/", "word": "second", "translation": "второй", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈsepərət/", "word": "separate", "translation": "отдельный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈsɪəriəs/", "word": "serious", "translation": "серьезный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ʃɑːp/", "word": "sharp", "translation": "резкий, острый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/smuːð/", "word": "smooth", "translation": "гладкий", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈstɪki/", "word": "sticky", "translation": "липкий", "type": "qualities — 100 descriptive words"}
 
 ]
