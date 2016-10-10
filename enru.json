@@ -439,6 +439,17 @@
   {"transcription": "/ˈsɪəriəs/", "word": "serious", "translation": "серьезный", "type": "qualities — 100 descriptive words"},
   {"transcription": "/ʃɑːp/", "word": "sharp", "translation": "резкий, острый", "type": "qualities — 100 descriptive words"},
   {"transcription": "/smuːð/", "word": "smooth", "translation": "гладкий", "type": "qualities — 100 descriptive words"},
-  {"transcription": "/ˈstɪki/", "word": "sticky", "translation": "липкий", "type": "qualities — 100 descriptive words"}
+  {"transcription": "/ˈstɪki/", "word": "sticky", "translation": "липкий", "type": "qualities — 100 descriptive words"},
+
+  {"transcription": "/stɪf/", "word": "stiff", "translation": "жесткий", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/streɪt/", "word": "straight", "translation": "прямой", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/strɒŋ/", "word": "strong", "translation": "сильный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/ˈsʌdən/", "word": "sudden", "translation": "внезапный", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/swiːt/", "word": "sweet", "translation": "сладкий", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/tɔːl/", "word": "tall", "translation": "высокий", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/θɪk/", "word": "thick", "translation": "толстый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/taɪt/", "word": "tight", "translation": "тугой", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/taɪəd/", "word": "tired", "translation": "усталый", "type": "qualities — 100 descriptive words"},
+  {"transcription": "/truː/", "word": "true", "translation": "истинный", "type": "qualities — 100 descriptive words"}
 
 ]
