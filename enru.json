@@ -463,7 +463,18 @@
   {"transcription": "/eə/", "word": "air", "translation": "воздух, воздушный", "type": "400 general words"},
   {"transcription": "/əˈmaʊnt/", "word": "amount", "translation": "количество", "type": "400 general words"},
   {"transcription": "/əˈmjuːzmənt/", "word": "amusement", "translation": "развлечение", "type": "400 general words"},
-  {"transcription": "/ˈænɪməl/", "word": "animal", "translation": "животное, животный", "type": "400 general words"}
+  {"transcription": "/ˈænɪməl/", "word": "animal", "translation": "животное, животный", "type": "400 general words"},
+
+  {"transcription": "/ˈɑːnsə/", "word": "answer", "translation": "отвечать, ответ", "type": "400 general words"},
+  {"transcription": "/ˌæpərˈeɪtəs/", "word": "apparatus", "translation": "аппарат", "type": "400 general words"},
+  {"transcription": "/əˈpruːvəl/", "word": "approval", "translation": "утверждение", "type": "400 general words"},
+  {"transcription": "/ˈɑːɡjəmənt/", "word": "argument", "translation": "аргумент", "type": "400 general words"},
+  {"transcription": "/ɑːt/", "word": "art", "translation": "искусство, художественный", "type": "400 general words"},
+  {"transcription": "/əˈtæk/", "word": "attack", "translation": "атаковать, атака, приступ", "type": "400 general words"},
+  {"transcription": "/əˈtempt/", "word": "attempt", "translation": "пытаться, попытка", "type": "400 general words"},
+  {"transcription": "/əˈtenʃən/", "word": "attention", "translation": "внимание", "type": "400 general words"},
+  {"transcription": "/əˈtrækʃən/", "word": "attraction", "translation": "привлечение", "type": "400 general words"},
+  {"transcription": "/ɔːˈθɒrəti/", "word": "authority", "translation": "власть", "type": "400 general words"}
 
 
 ]
