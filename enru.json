@@ -551,7 +551,18 @@
   {"transcription": "/dɪˈrekʃən/", "word": "direction", "translation": "направление", "type": "400 general words"},
   {"transcription": "/dɪˈskʌvəri/", "word": "discovery", "translation": "открытие", "type": "400 general words"},
   {"transcription": "/dɪˈskʌʃən/", "word": "discussion", "translation": "обсуждение", "type": "400 general words"},
-  {"transcription": "/dɪˈziːz/", "word": "disease", "translation": "болезнь, заболевание", "type": "400 general words"}
+  {"transcription": "/dɪˈziːz/", "word": "disease", "translation": "болезнь, заболевание", "type": "400 general words"},
+
+  {"transcription": "/dɪsˈɡʌst/", "word": "disgust", "translation": "отвращение", "type": "400 general words"},
+  {"transcription": "/ˈdɪstəns/", "word": "distance", "translation": "расстояние", "type": "400 general words"},
+  {"transcription": "/ˌdɪstrɪˈbjuːʃən/", "word": "distribution", "translation": "распределение, распространение", "type": "400 general words"},
+  {"transcription": "/dɪˈvɪʒən/", "word": "division", "translation": "разделение, деление", "type": "400 general words"},
+  {"transcription": "/daʊt/", "word": "doubt", "translation": "сомнение", "type": "400 general words"},
+  {"transcription": "/drɪŋk/", "word": "drink", "translation": "пить", "type": "400 general words"},
+  {"transcription": "/ˈdraɪvɪŋ/", "word": "driving", "translation": "вождение", "type": "400 general words"},
+  {"transcription": "/dʌst/", "word": "dust", "translation": "пыль", "type": "400 general words"},
+  {"transcription": "/ɜːθ/", "word": "earth", "translation": "земля", "type": "400 general words"},
+  {"transcription": "/edʒ/", "word": "edge", "translation": "край, кромка", "type": "400 general words"}
 
 
 ]
