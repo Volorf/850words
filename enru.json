@@ -464,7 +464,6 @@
   {"transcription": "/əˈmaʊnt/", "word": "amount", "translation": "количество", "type": "400 general words"},
   {"transcription": "/əˈmjuːzmənt/", "word": "amusement", "translation": "развлечение", "type": "400 general words"},
   {"transcription": "/ˈænɪməl/", "word": "animal", "translation": "животное, животный", "type": "400 general words"},
-
   {"transcription": "/ˈɑːnsə/", "word": "answer", "translation": "отвечать, ответ", "type": "400 general words"},
   {"transcription": "/ˌæpərˈeɪtəs/", "word": "apparatus", "translation": "аппарат", "type": "400 general words"},
   {"transcription": "/əˈpruːvəl/", "word": "approval", "translation": "утверждение", "type": "400 general words"},
@@ -475,7 +474,6 @@
   {"transcription": "/əˈtenʃən/", "word": "attention", "translation": "внимание", "type": "400 general words"},
   {"transcription": "/əˈtrækʃən/", "word": "attraction", "translation": "привлечение", "type": "400 general words"},
   {"transcription": "/ɔːˈθɒrəti/", "word": "authority", "translation": "власть", "type": "400 general words"},
-
   {"transcription": "/bæk/", "word": "back", "translation": "назад, спина", "type": "400 general words"},
   {"transcription": "/ˈbæləns/", "word": "balance", "translation": "равновесие, остаток", "type": "400 general words"},
   {"transcription": "/beɪs/", "word": "base", "translation": "база, основа", "type": "400 general words"},
@@ -486,7 +484,6 @@
   {"transcription": "/baɪt/", "word": "bite", "translation": "кусать, кусок", "type": "400 general words"},
   {"transcription": "/blʌd/", "word": "blood", "translation": "кровь", "type": "400 general words"},
   {"transcription": "/bləʊ/", "word": "blow", "translation": "дуть", "type": "400 general words"},
-
   {"transcription": "/ˈbɒdi/", "word": "body", "translation": "тело", "type": "400 general words"},
   {"transcription": "/brɑːs/", "word": "brass", "translation": "латунь", "type": "400 general words"},
   {"transcription": "/bred/", "word": "bread", "translation": "хлеб", "type": "400 general words"},
@@ -497,7 +494,6 @@
   {"transcription": "/bɜːst/", "word": "burst", "translation": "взрыв, лопнуть", "type": "400 general words"},
   {"transcription": "/ˈbɪznɪs/", "word": "business", "translation": "работа, дело", "type": "400 general words"},
   {"transcription": "/ˈbʌtə/", "word": "butter", "translation": "масло", "type": "400 general words"},
-
   {"transcription": "/ˈkænvəs/", "word": "canvas", "translation": "холст", "type": "400 general words"},
   {"transcription": "/keə/", "word": "care", "translation": "заботиться, волноваться", "type": "400 general words"},
   {"transcription": "/kɔːz/", "word": "cause", "translation": "причина", "type": "400 general words"},
@@ -508,7 +504,6 @@
   {"transcription": "/kəʊl/", "word": "coal", "translation": "уголь", "type": "400 general words"},
   {"transcription": "/ˈkʌlə/", "word": "colour", "translation": "цвет", "type": "400 general words"},
   {"transcription": "/ˈkʌmfət/", "word": "comfort", "translation": "комфорт, удобство", "type": "400 general words"},
-
   {"transcription": "/kəˈmɪti/", "word": "committee", "translation": "комитет", "type": "400 general words"},
   {"transcription": "/ˈkʌmpəni/", "word": "company", "translation": "компания", "type": "400 general words"},
   {"transcription": "/kəmˈpærɪsən/", "word": "comparison", "translation": "сравнение", "type": "400 general words"},
@@ -519,7 +514,6 @@
   {"transcription": "/kʊk/", "word": "cook", "translation": "готовить, повар", "type": "400 general words"},
   {"transcription": "/ˈkɒpə/", "word": "copper", "translation": "медь", "type": "400 general words"},
   {"transcription": "/ˈkɒpi/", "word": "copy", "translation": "копировать, копия", "type": "400 general words"},
-
   {"transcription": "/kɔːk/", "word": "cork", "translation": "пробка, затаивать", "type": "400 general words"},
   {"transcription": "/ˈkɒtən/", "word": "cotton", "translation": "хлопок", "type": "400 general words"},
   {"transcription": "/kɒf/", "word": "cough", "translation": "кашлять, кашель", "type": "400 general words"},
@@ -530,7 +524,6 @@
   {"transcription": "/kraɪm/", "word": "crime", "translation": "преступление", "type": "400 general words"},
   {"transcription": "/krʌʃ/", "word": "crush", "translation": "раздавить", "type": "400 general words"},
   {"transcription": "/kraɪ/", "word": "cry", "translation": "плакать", "type": "400 general words"},
-
   {"transcription": "/ˈkʌrənt/", "word": "current", "translation": "текущий, нынешний", "type": "400 general words"},
   {"transcription": "/kɜːv/", "word": "curve", "translation": "кривая, изгибать", "type": "400 general words"},
   {"transcription": "/ˈdæmɪdʒ/", "word": "damage", "translation": "повреждение", "type": "400 general words"},
@@ -541,7 +534,6 @@
   {"transcription": "/det/", "word": "debt", "translation": "долг", "type": "400 general words"},
   {"transcription": "/dɪˈsɪʒən/", "word": "decision", "translation": "решение", "type": "400 general words"},
   {"transcription": "/dɪˈɡriː/", "word": "degree", "translation": "градус", "type": "400 general words"},
-
   {"transcription": "/dɪˈzaɪn/", "word": "design", "translation": "дизайн, проектировать", "type": "400 general words"},
   {"transcription": "/dɪˈzaɪə/", "word": "desire", "translation": "желание, желать", "type": "400 general words"},
   {"transcription": "/dɪˈstrʌkʃən/", "word": "destruction", "translation": "разрушение, уничтожение", "type": "400 general words"},
@@ -552,7 +544,6 @@
   {"transcription": "/dɪˈskʌvəri/", "word": "discovery", "translation": "открытие", "type": "400 general words"},
   {"transcription": "/dɪˈskʌʃən/", "word": "discussion", "translation": "обсуждение", "type": "400 general words"},
   {"transcription": "/dɪˈziːz/", "word": "disease", "translation": "болезнь, заболевание", "type": "400 general words"},
-
   {"transcription": "/dɪsˈɡʌst/", "word": "disgust", "translation": "отвращение", "type": "400 general words"},
   {"transcription": "/ˈdɪstəns/", "word": "distance", "translation": "расстояние", "type": "400 general words"},
   {"transcription": "/ˌdɪstrɪˈbjuːʃən/", "word": "distribution", "translation": "распределение, распространение", "type": "400 general words"},
@@ -562,7 +553,51 @@
   {"transcription": "/ˈdraɪvɪŋ/", "word": "driving", "translation": "вождение", "type": "400 general words"},
   {"transcription": "/dʌst/", "word": "dust", "translation": "пыль", "type": "400 general words"},
   {"transcription": "/ɜːθ/", "word": "earth", "translation": "земля", "type": "400 general words"},
-  {"transcription": "/edʒ/", "word": "edge", "translation": "край, кромка", "type": "400 general words"}
+  {"transcription": "/edʒ/", "word": "edge", "translation": "край, кромка", "type": "400 general words"},
+
+  {"transcription": "/ˌedʒʊˈkeɪʃən/", "word": "education", "translation": "образование", "type": "400 general words"},
+  {"transcription": "/ɪˈfekt/", "word": "effect", "translation": "результат, воздействие", "type": "400 general words"},
+  {"transcription": "/end/", "word": "end", "translation": "конец", "type": "400 general words"},
+  {"transcription": "/ˈerə/", "word": "error", "translation": "ошибка", "type": "400 general words"},
+  {"transcription": "/ɪˈvent/", "word": "event", "translation": "событие", "type": "400 general words"},
+  {"transcription": "/ɪɡˈzɑːmpl/", "word": "example", "translation": "пример, образец", "type": "400 general words"},
+  {"transcription": "/ɪksˈtʃeɪndʒ/", "word": "exchange", "translation": "обмен, замена", "type": "400 general words"},
+  {"transcription": "/ɪɡˈzɪstəns/", "word": "existence", "translation": "существование", "type": "400 general words"},
+  {"transcription": "/ɪkˈspænʃən/", "word": "expansion", "translation": "рост, развитие", "type": "400 general words"},
+  {"transcription": "/ɪkˈspɪəriəns/", "word": "experience", "translation": "опыт", "type": "400 general words"},
+
+  {"transcription": "/ˈekspɜːt/", "word": "expert", "translation": "специалист, эксперт", "type": "400 general words"},
+  {"transcription": "/fækt/", "word": "fact", "translation": "факт, обстоятельство", "type": "400 general words"},
+  {"transcription": "/fɔːl/", "word": "fall", "translation": "падать", "type": "400 general words"},
+  {"transcription": "/ˈfæməli/", "word": "family", "translation": "семья", "type": "400 general words"},
+  {"transcription": "/ˈfɑːðə/", "word": "father", "translation": "отец", "type": "400 general words"},
+  {"transcription": "/fɪə/", "word": "fear", "translation": "страх, бояться", "type": "400 general words"},
+  {"transcription": "/ˈfiːlɪŋ/", "word": "feeling", "translation": "чувство, настроение", "type": "400 general words"},
+  {"transcription": "/ˈfɪkʃən/", "word": "fiction", "translation": "вымысел, выдумка", "type": "400 general words"},
+  {"transcription": "/ˈfiːld/", "word": "field", "translation": "поле, область", "type": "400 general words"},
+  {"transcription": "/faɪt/", "word": "fight", "translation": "бой, сражаться", "type": "400 general words"},
+
+  {"transcription": "/faɪə/", "word": "fire", "translation": "огонь, стрелять", "type": "400 general words"},
+  {"transcription": "/fleɪm/", "word": "flame", "translation": "огонь, пламя", "type": "400 general words"},
+  {"transcription": "/flaɪt/", "word": "flight", "translation": "рейс, полёт", "type": "400 general words"},
+  {"transcription": "/flaʊə/", "word": "flower", "translation": "цветок", "type": "400 general words"},
+  {"transcription": "/fəʊld/", "word": "fold", "translation": "сложить, сгиб", "type": "400 general words"},
+  {"transcription": "/fuːd/", "word": "food", "translation": "пища, еда", "type": "400 general words"},
+  {"transcription": "/fɔːs/", "word": "force", "translation": "сила, заставлять", "type": "400 general words"},
+  {"transcription": "/fɔːm/", "word": "form", "translation": "форма, вид, образовывать", "type": "400 general words"},
+  {"transcription": "/frend/", "word": "friend", "translation": "друг", "type": "400 general words"},
+  {"transcription": "/frʌnt/", "word": "front", "translation": "перед, передний", "type": "400 general words"},
+
+  {"transcription": "/fruːt/", "word": "fruit", "translation": "фрукт", "type": "400 general words"},
+  {"transcription": "/ɡlɑːs/", "word": "glass", "translation": "стекло", "type": "400 general words"},
+  {"transcription": "/ɡəʊld/", "word": "gold", "translation": "золото, золотой", "type": "400 general words"},
+  {"transcription": "/ˈɡʌvənmənt/", "word": "government", "translation": "правительство", "type": "400 general words"},
+  {"transcription": "/ɡreɪn/", "word": "grain", "translation": "зерно", "type": "400 general words"},
+  {"transcription": "/ɡrɑːs/", "word": "grass", "translation": "трава", "type": "400 general words"},
+  {"transcription": "/ɡrɪp/", "word": "grip", "translation": "хватка, сжатие", "type": "400 general words"},
+  {"transcription": "/ɡruːp/", "word": "group", "translation": "группа", "type": "400 general words"},
+  {"transcription": "/ɡrəʊθ/", "word": "growth", "translation": "рост", "type": "400 general words"},
+  {"transcription": "/ɡaɪd/", "word": "guide", "translation": "руководство, гид", "type": "400 general words"}
 
 
 ]
