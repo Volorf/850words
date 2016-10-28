@@ -597,7 +597,40 @@
   {"transcription": "/ɡrɪp/", "word": "grip", "translation": "хватка, сжатие", "type": "400 general words"},
   {"transcription": "/ɡruːp/", "word": "group", "translation": "группа", "type": "400 general words"},
   {"transcription": "/ɡrəʊθ/", "word": "growth", "translation": "рост", "type": "400 general words"},
-  {"transcription": "/ɡaɪd/", "word": "guide", "translation": "руководство, гид", "type": "400 general words"}
+  {"transcription": "/ɡaɪd/", "word": "guide", "translation": "руководство, гид", "type": "400 general words"},
+
+  {"transcription": "/hɑː.bə/", "word": "harbour", "translation": "гавань, питать", "type": "400 general words"},
+  {"transcription": "/ˈhɑːməni/", "word": "harmony", "translation": "согласие, мир", "type": "400 general words"},
+  {"transcription": "/heɪt/", "word": "hate", "translation": "ненавидеть, ненависть", "type": "400 general words"},
+  {"transcription": "/ˈhɪərɪŋ/", "word": "hearing", "translation": "слух", "type": "400 general words"},
+  {"transcription": "/hiːt/", "word": "heat", "translation": "жара, тепло", "type": "400 general words"},
+  {"transcription": "/help/", "word": "help", "translation": "помогать, помощь", "type": "400 general words"},
+  {"transcription": "/həʊl/", "word": "hole", "translation": "дыра, отверстие, яма", "type": "400 general words"},
+  {"transcription": "/həʊp/", "word": "hope", "translation": "надеяться, надежда", "type": "400 general words"},
+  {"transcription": "/aʊə/", "word": "hour", "translation": "час", "type": "400 general words"},
+  {"transcription": "/ˈhjuːmə/", "word": "humour", "translation": "юмор", "type": "400 general words"},
+
+  {"transcription": "/aɪs/", "word": "ice", "translation": "лёд, ледяной", "type": "400 general words"},
+  {"transcription": "/aɪˈdɪə/", "word": "idea", "translation": "идея, мысль", "type": "400 general words"},
+  {"transcription": "/ˈɪmpʌls/", "word": "impulse", "translation": "побуждение, порыв", "type": "400 general words"},
+  {"transcription": "/ɪnˈkriːs/", "word": "increase", "translation": "увеличивать", "type": "400 general words"},
+  {"transcription": "/ˈɪndəstri/", "word": "industry", "translation": "промышленность, индустрия", "type": "400 general words"},
+  {"transcription": "/ɪŋk/", "word": "ink", "translation": "чернила", "type": "400 general words"},
+  {"transcription": "/ˈɪnsekt/", "word": "insect", "translation": "насекомое", "type": "400 general words"},
+  {"transcription": "/ˈɪnstrəmənt/", "word": "instrument", "translation": "инструмент, прибор", "type": "400 general words"},
+  {"transcription": "/ɪnˈʃʊərəns/", "word": "insurance", "translation": "страхование, страховой", "type": "400 general words"},
+  {"transcription": "/ˈɪntrəst/", "word": "interest", "translation": "заинтересовать, интерес", "type": "400 general words"},
+
+  {"transcription": "/ɪnˈvenʃən/", "word": "invention", "translation": "изобретение", "type": "400 general words"},
+  {"transcription": "/aɪən/", "word": "iron", "translation": "железо, утюг, гладить, железный", "type": "400 general words"},
+  {"transcription": "/ˈdʒeli/", "word": "jelly", "translation": "желе, превращать в желе", "type": "400 general words"},
+  {"transcription": "/dʒɔɪn/", "word": "join", "translation": "вступать, присоединяться", "type": "400 general words"},
+  {"transcription": "/ˈdʒɜːni/", "word": "journey", "translation": "путешествие", "type": "400 general words"},
+  {"transcription": "/dʒʌdʒ/", "word": "judge", "translation": "судья", "type": "400 general words"},
+  {"transcription": "/dʒʌmp/", "word": "jump", "translation": "прыгать", "type": "400 general words"},
+  {"transcription": "/kɪk/", "word": "kick", "translation": "ударять ногой, пинать", "type": "400 general words"},
+  {"transcription": "/kɪs/", "word": "kiss", "translation": "поцелуй, поцеловать", "type": "400 general words"},
+  {"transcription": "/ˈnɒlɪdʒ/", "word": "knowledge", "translation": "знание", "type": "400 general words"}
 
 
 ]
